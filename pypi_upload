@@ -1,0 +1,5 @@
+# run once
+python setup.py register
+
+# run every version update
+python setup.py sdist upload
